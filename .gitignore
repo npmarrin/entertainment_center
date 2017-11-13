@@ -56,4 +56,4 @@ fabric.properties
 fresh_tomatoes.html
 
 # Ignore python compilation files
-.pyc
+*.pyc
